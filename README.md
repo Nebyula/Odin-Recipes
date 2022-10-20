@@ -1,1 +1,1 @@
-This will be my first rpoject tackling HTML with help from a friend.
+This will be my first project tackling HTML creating a web page on reciepes on the internet.
